@@ -1,2 +1,2 @@
-# AdvML-for-Deep-Hashing
+# Adversarial Machine Learning for Deep Hashing
 Papers of adversarial machine learning for deep hashing
