@@ -10,3 +10,4 @@ Related Papers of adversarial machine learning in deep hashing based retrieval.
 
 ## Adversarial Defense
 * [Targeted Attack and Defense for Deep Hashing](https://dl.acm.org/doi/abs/10.1145/3404835.3463233) (SIGIR 2021) <br/> This paper presented the first adversarial training algorithm to improve the adversarial robustness of deep hashing networks.
+* [CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval](https://dl.acm.org/doi/abs/10.1145/3543507.3583369) (WWW 2023) <br/> The authors present a min-max based Center-guided Adversarial Training, namely CgAT, to improve the robustness of deep hashing networks through worst adversarial examples.
